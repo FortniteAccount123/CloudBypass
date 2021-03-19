@@ -1,4 +1,4 @@
-exports.TOKEN = "TokenHere";
+exports.TOKEN = "ODIxNzk1NjYyNTIxMDQwOTU2.YFI62g.9TXpy2bSE60ro95c4F0R03Jz0LQ";
 
 exports.DBL_API_KEY = "NONE";
 
